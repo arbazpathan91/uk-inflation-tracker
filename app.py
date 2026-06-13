@@ -32,7 +32,7 @@ st.caption("UK · USA · Eurozone · India · China · Brazil — World Bank ope
 COUNTRIES = {
     "🇬🇧 United Kingdom": "GB",
     "🇺🇸 United States":  "US",
-    "🇪🇺 Eurozone":       "XC",
+    "🇩🇪 Germany":        "DE",
     "🇮🇳 India":          "IN",
     "🇨🇳 China":          "CN",
     "🇧🇷 Brazil":         "BR",
@@ -41,17 +41,16 @@ COUNTRIES = {
 COLORS = {
     "🇬🇧 United Kingdom": "#3b82f6",
     "🇺🇸 United States":  "#f43f5e",
-    "🇪🇺 Eurozone":       "#f59e0b",
+    "🇩🇪 Germany":        "#f59e0b",
     "🇮🇳 India":          "#10b981",
     "🇨🇳 China":          "#a78bfa",
     "🇧🇷 Brazil":         "#fb923c",
 }
 
-# Real policy rates (approximate, for insight #5)
 POLICY_RATES_2024 = {
     "🇬🇧 United Kingdom": 5.25,
     "🇺🇸 United States":  5.50,
-    "🇪🇺 Eurozone":       4.50,
+    "🇩🇪 Germany":        4.50,
     "🇮🇳 India":          6.50,
     "🇨🇳 China":          3.45,
     "🇧🇷 Brazil":         10.50,
